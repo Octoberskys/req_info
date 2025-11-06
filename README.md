@@ -1,6 +1,4 @@
-# helloworld
-
-AstrBot 插件模板
+# req_info
 
 A template plugin for AstrBot plugin feature
 
