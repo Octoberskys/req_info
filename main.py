@@ -11,7 +11,7 @@ class MyPlugin(Star):
         self.context = context
         self.config = config
 
-        self.url = config.get("url")
+        self.url = config.get("req_url")
 
     async def initialize(self):
         """可选择实现异步的插件初始化方法，当实例化该插件类之后会自动调用该方法。"""

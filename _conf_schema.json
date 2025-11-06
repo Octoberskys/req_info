@@ -1,3 +1,8 @@
 {
-  "url": "https://www.baidu.com"
+  "req_url": {
+    "description": "查询链接",
+    "type": "string",
+    "hint": "查询链接",
+    "default": "https://www.baidu.com"
+  }
 }
